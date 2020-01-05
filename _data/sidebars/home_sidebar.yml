@@ -57,3 +57,12 @@ entries:
       url: /git.html
       output: pdf
       type: frontmatter
+
+
+  - title: Tag archives
+    output: web
+    folderitems:
+    
+    - title: Gettting started
+      url: /tag_getting_started.html
+      output: web
