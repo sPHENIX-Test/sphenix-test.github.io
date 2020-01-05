@@ -11,11 +11,7 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
+      url: /index.html
       output: pdf
       type: frontmatter
 
@@ -24,11 +20,7 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
+      url: /index.html
       output: pdf
       type: frontmatter
       
@@ -37,11 +29,7 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
+      url: /index.html
       output: pdf
       type: frontmatter
       
@@ -51,13 +39,8 @@ entries:
     folderitems:
     - title: Doxygen software reference
       url: /doxygen
-      output: pdf
+      output: web
       type: frontmatter
-    - title: git
-      url: /git.html
-      output: pdf
-      type: frontmatter
-
 
   - title: Tag archives
     output: web
