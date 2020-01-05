@@ -1,2 +1,0 @@
-# sPHENIX-Test
-doc
