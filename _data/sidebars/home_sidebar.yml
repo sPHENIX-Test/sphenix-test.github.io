@@ -53,7 +53,7 @@ entries:
       url: /doxygen
       output: pdf
       type: frontmatter
-    - title: `git`
+    - title: git
       url: /git.html
       output: pdf
       type: frontmatter
