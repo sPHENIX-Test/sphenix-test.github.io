@@ -7,34 +7,34 @@ entries:
   folders:
 
   - title: Getting started
-    output: pdf
+    output: web
     type: frontmatter
     folderitems:
     - title:
       url: /index.html
-      output: pdf
+      output: web
       type: frontmatter
 
   - title: Using sPHENIX software
-    output: pdf
+    output: web
     type: frontmatter
     folderitems:
     - title:
       url: /index.html
-      output: pdf
+      output: web
       type: frontmatter
       
   - title: CoreSoftware development
-    output: pdf
+    output: web
     type: frontmatter
     folderitems:
     - title:
       url: /index.html
-      output: pdf
+      output: web
       type: frontmatter
       
   - title: Resources
-    output: pdf
+    output: web
     type: frontmatter
     folderitems:
     - title: Doxygen software reference
