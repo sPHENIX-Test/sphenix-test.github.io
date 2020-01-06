@@ -1,7 +1,7 @@
 ---
 title: "Getting started with the Documentation Theme for Jekyll"
 keywords: sample homepage
-tags: [getting_started]
+tags: [getting_started, home]
 permalink: index.html
 summary: Landing page for sPHENIX software documentation
 ---
