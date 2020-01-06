@@ -5,12 +5,12 @@ entries:
   product: sPHENIX Software Documentation
   version: 6.0
   folders:
-
   - title: Getting started
     output: web
     type: frontmatter
     folderitems:
-    - title:
+    
+    - title: topic1
       url: /index.html
       output: web
       type: frontmatter
@@ -19,7 +19,8 @@ entries:
     output: web
     type: frontmatter
     folderitems:
-    - title:
+    
+    - title: topic1
       url: /index.html
       output: web
       type: frontmatter
@@ -28,7 +29,8 @@ entries:
     output: web
     type: frontmatter
     folderitems:
-    - title:
+    
+    - title: topic1
       url: /index.html
       output: web
       type: frontmatter
@@ -37,6 +39,7 @@ entries:
     output: web
     type: frontmatter
     folderitems:
+    
     - title: Doxygen software reference
       url: /doxygen
       output: web
